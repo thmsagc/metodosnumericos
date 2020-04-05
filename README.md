@@ -25,7 +25,7 @@
       5 - Integração Numérica: Regra 1/3 de Simpson
       
  # Fundamentação Teórica
-   A fundamentação teórica necessária para a compreensão dos métodos implementados está presente no relatório completo, podendo ser acessado pelo link abaixo (idioma PT-BR).
+   A fundamentação teórica necessária para a compreensão dos métodos implementados está presente no relatório referente a este trabalho, podendo ser acessado pelo link abaixo (idioma PT-BR).
    
    [Relatório](https://docs.google.com/document/d/1WbbWKCKr5Jq7FHUmQ5aPXJaPm_R5hMgSMwWjPflTU3I)
    
