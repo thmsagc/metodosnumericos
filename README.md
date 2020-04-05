@@ -13,6 +13,7 @@
 
  # Métodos implementados
    Os algoritmos desenvolvidos são:
+   
       1 - Interpolação Polinomial: Método de Lagrange
       
       2 - Interpolação Polinomial: Método de Newton
