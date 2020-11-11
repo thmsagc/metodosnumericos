@@ -1,8 +1,8 @@
 # Implementação de métodos de análise numérica
     A implementação deste programa foi realizada utilizando a linguagem C++.
     Este programa consiste em uma atividade proposta na disciplina de Cálculo
-    Numérico (período 2019.2) no Centro de Informatica da Universidade Federal
-    da Paraíba.
+    Numérico ministrada no Centro de Informatica da Universidade Federal da
+    Paraíba.
     
     @version 05/04/2020   
         
